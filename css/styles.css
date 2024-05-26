@@ -81,6 +81,12 @@ textarea {
     line-height: 45px;
 }
 
+.required-field-text {
+    font-style: italic;
+    color: #575757;
+    font-size: 10px;
+}
+
 /* form body */
 
 .form-body {
